@@ -1,9 +1,9 @@
 export default [
     {
-        title: "Real Estate Dapp",
-        imgUrl: '/assets/real-estate.png',
+        title: "RoboPunks NFT Mint",
+        imgUrl: '/assets/robopunks.png',
         stack: ['Solidity', 'Ethereum', 'JavaScript'],
-        link: 'https://github.com/usman-m100/web3-realestate'
+        link: 'https://github.com/usman-m100/web3-nft-mint'
     },
 
     {
