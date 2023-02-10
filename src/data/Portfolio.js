@@ -1,9 +1,9 @@
 export default [
     {
-        title: "A Developer's Portfolio",
-        imgUrl: '/assets/developer-portfolio.png',
-        stack: ['Next', 'JavaScript', 'ChakraUI'],
-        link: 'https://usman-dev-portfolio.vercel.app/'
+        title: "Real Estate Dapp",
+        imgUrl: '/assets/real-estate.png',
+        stack: ['Solidity', 'Ethereum', 'JavaScript'],
+        link: 'https://github.com/usman-m100/web3-realestate'
     },
 
     {
