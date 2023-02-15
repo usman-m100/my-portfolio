@@ -15,7 +15,7 @@ export default [
 
     {
         title: "Facial Recognition Software",
-        imgUrl: '/assets/face-recognition.jpg',
+        imgUrl: '/assets/face.png',
         stack: ['Python', 'OpenCV', 'Robotics'],
         link: 'https://github.com/usman-m100/facial-recognition'
     },
