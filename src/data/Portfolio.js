@@ -19,11 +19,5 @@ export default [
         stack: ['Python', 'OpenCV', 'Robotics'],
         link: 'https://github.com/usman-m100/facial-recognition'
     },
-    
-    {
-        title: "three.sphere",
-        imgUrl: '/assets/three.png',
-        stack: ['Three.js', 'JavaScript', 'Node'],
-        link: 'https://three-sphere-two.vercel.app/'
-    },
+
 ]
